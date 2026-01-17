@@ -1,6 +1,6 @@
 # Lynq | The Private Communication Layer
 
-![Lynq Banner](./public/logo-text.png)
+![Lynq Banner](./public/logo_text.png)
 
 Lynq is a decentalized, private communication layer built on **Solana**. It enables wallet-to-wallet encrypted messaging and confidential payments using Zero-Knowledge Proofs, providing a seamless and secure experience for Web3 users.
 
